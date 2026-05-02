@@ -34,8 +34,9 @@ terraform destroy
 
 
 
-<img width="1099" height="52" alt="image" src="https://github.com/user-attachments/assets/5ee40318-ca73-4e64-b4e9-95c2a522d2b7" />
 
+
+<img width="1099" height="52" alt="image" src="https://github.com/user-attachments/assets/5ee40318-ca73-4e64-b4e9-95c2a522d2b7" />
 
 
 ## Security Best Practice
