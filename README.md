@@ -23,9 +23,13 @@ Terraform → AWS → Security Group → EC2 Instance
 
 ## Commands Used
 terraform init
+
 terraform plan
+
 terraform apply
+
 terraform destroy
+
 
 <img width="1245" height="441" alt="image" src="https://github.com/user-attachments/assets/171f998f-55dd-419d-aa4a-c38301858a82" />
 
